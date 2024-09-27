@@ -25,7 +25,7 @@ Onde podem me encontrar:
     <a href="https://www.linkedin.com/in/leonardo-souza96/">
       <img height="40" width="40" src="https://github.com/BruceFonseca2/Portfolio/blob/main/social%20icons/linkedin.png?raw=true"
     </a>
-    <a href="(61)993930233">
+    <a href="https://api.whatsapp.com/send?phone=5561993930233">
       <img height="40" width="40" src="https://github.com/BruceFonseca2/Portfolio/blob/main/social%20icons/whatsapp.png?raw=true"
     </a>
   <div>
