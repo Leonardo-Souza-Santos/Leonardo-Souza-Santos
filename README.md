@@ -29,3 +29,20 @@ Onde podem me encontrar:
       <img height="40" width="40" src="https://github.com/BruceFonseca2/Portfolio/blob/main/social%20icons/whatsapp.png?raw=true"
     </a>
   <div>
+
+## 
+
+## Portfólio e Principais Projetos
+### Sales Overview Dashboard
+<img align="right" width="500"  src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2001.png?raw=true">
+Este projeto de dashboard foi desenvolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Truck, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
+Principais problemas relatados pelo requisitante: 
+- Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.
+- Segmentar dados  por Linha de Produto, Região e o tempo de uma forma simples, dinâmica e fácil de compartilhar.
+- Medir a performance de Custo, Margem e Receita
+<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNWZlNzA5YTItYzBkNy00Y2ZiLTljMjgtMGQwMDM1NWVkMzAxIiwidCI6Ijc0ZGU5YTYyLWFmZWItNDM5Zi1iNzc5LTcxZWM2ZmU0ZmYyMCJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<br>
+<a href="https://github.com/BruceFonseca/Contoso-Light/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+
+<br><br>
