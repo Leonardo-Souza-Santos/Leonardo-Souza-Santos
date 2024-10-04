@@ -34,7 +34,7 @@ Onde podem me encontrar:
 
 ## Portfólio e Principais Projetos
 ### Sales Overview Dashboard
-<img align="right" width="500"  src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2001.png?raw=true">
+<img align="right" width="500"  src="https://github.com/Leonardo-Souza-Santos/Leonardo-Souza-Santos/blob/main/04%20-%20Dashboard%20Finalizado%20-%20SALES%20OVERVIEW.PNG?raw=true">
 Este projeto de dashboard foi desenvolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Truck, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
 Principais problemas relatados pelo requisitante: 
 - Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.
