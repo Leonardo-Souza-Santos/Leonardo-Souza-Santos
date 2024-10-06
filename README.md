@@ -43,6 +43,6 @@ Principais problemas relatados pelo requisitante:
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNWZlNzA5YTItYzBkNy00Y2ZiLTljMjgtMGQwMDM1NWVkMzAxIiwidCI6Ijc0ZGU5YTYyLWFmZWItNDM5Zi1iNzc5LTcxZWM2ZmU0ZmYyMCJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
-<a href="https://github.com/BruceFonseca/Contoso-Light/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/Leonardo-Souza-Santos/Leonardo-Souza-Santos/blob/main/README.md" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
 <br><br>
